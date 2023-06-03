@@ -1,0 +1,28 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Jairo Morales Pérez"
+# logo = "img/logo.png"
+secondaryLogo = "img/logo.png"
+description = "My awesome website"
+copyright = "Copyright © 2023 Jairo"
+
+dateFormat = "2 January 2006"
+
+[author]
+name = "Jairo Morales Pérez"
+image = "img/logo.png"
+headline = "I'm only human"
+bio = "A little bit about you"
+links = [
+#    { email = "mailto:" },
+    { link = "https://icky17.github.io/" },
+    { github = "https://github.com/icky17" },
+    { linkedin = "https://www.linkedin.com/in/jairo-morales-p%C3%A9rez/" },
+    { stack-overflow = "https://stackoverflow.com/users/21934496/icky18" },
+    { ko-fi = "https://ko-fi.com/icky17" },
+]

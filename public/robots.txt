@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://icky17.github.io/sitemap.xml

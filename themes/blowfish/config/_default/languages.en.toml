@@ -1,0 +1,28 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Blowfish"
+logo = "img/logo.png"
+secondaryLogo = "img/secondary-logo.png"
+description = "My awesome website"
+copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+name = "Jairo"
+image = "img/blowfish_logo.png"
+headline = "I'm only human"
+bio = "A little bit about you"
+links = [
+#    { email = "mailto:" },
+    { link = "https://icky17.github.io/" },
+    { github = "https://github.com/username" },
+    { linkedin = "https://linkedin.com/in/username" },
+    { stack-overflow = "https://stackoverflow.com/users/21934496/icky18" },
+    { ko-fi = "https://ko-fi.com/username" },
+]
