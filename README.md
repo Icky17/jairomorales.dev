@@ -27,8 +27,6 @@ You should then see in the terminal, that the website will be deployed in `local
 
 - [Nuno Coração](https://github.com/nunocoracao) for the amazing [Hugo Theme](https://github.com/nunocoracao/blowfish)
 
-
-
 ## License
 
 Released under the [MIT License](LICENSE.md).
