@@ -3,6 +3,10 @@
 
 [![Netlify](https://img.shields.io/netlify/4acb3c9b-fbcd-488e-be70-18942eb2669f?logo=netlify)](https://www.netlify.com/) [![MIT License](https://img.shields.io/github/license/icky17/jairomorales.dev)](LICENSE.md)
 
+- https://jairomoralesdev.netlify.app/
+
+> Soon: https://jairomorales.dev
+
 ___
 ## Local development
 
